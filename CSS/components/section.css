@@ -1,0 +1,12 @@
+.section {
+  background-color: #333d29;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  border-bottom: 10px solid #a68a64;
+}
+.section.-bgBlack {
+  background-color: black;
+}
+.section.-bdFirst {
+  border-bottom: 10px solid #333d29;
+}

@@ -1,0 +1,14 @@
+.title {
+  font-family: 'Press Start 2P', sans-serif;
+  font-size: 40px;
+  color: #7f4f24;
+  text-shadow: 4px 4px 0 #000;
+}
+
+.title.-second {
+  /**variação de classe**/
+  color: #fff;
+  text-shadow: none;
+  text-align: center;
+  margin-bottom: 60px;
+}

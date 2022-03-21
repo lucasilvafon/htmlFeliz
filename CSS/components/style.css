@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+  font-family: "Fira Code", sans-serif;
+
+}
+.logo {
+  display: inline;
+  width: 60px;
+  height: 60px;
+  margin: 10px 0px 10px 20px;
+}
